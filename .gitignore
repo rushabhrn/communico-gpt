@@ -1,3 +1,6 @@
-requirements.txt
 .env
-Communication_Books
+Communication_Books/
+__pycache__/
+*.pyc
+.venv/
+venv/
